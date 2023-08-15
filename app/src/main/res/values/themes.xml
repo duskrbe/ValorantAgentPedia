@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.ValorantAgentPedia" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.ValorantAgentPedia" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
@@ -18,6 +18,4 @@
         <item name="android:statusBarColor">@color/ungu_gelap_background</item>
         <!-- Customize your theme here. -->
     </style>
-
-    <style name="Theme.ValorantAgentPedia" parent="Base.Theme.ValorantAgentPedia" />
 </resources>

@@ -1,7 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.ValorantAgentPedia" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
-    </style>
+        <style name="Theme.ValorantAgentPedia" parent="Theme.Material3.DayNight.NoActionBar">
+            <!-- Primary brand color. -->
+            <item name="colorOnPrimary">@color/white</item>
+            <!-- Secondary brand color. -->
+            <item name="colorOnSecondary">@color/black</item>
+            <!-- Status bar color. -->
+            <item name="android:statusBarColor">@color/ungu_muda_vanila</item>
+            <!-- Customize your theme here. -->
+        </style>
+
 </resources>
