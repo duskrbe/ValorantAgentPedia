@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#6C0000</color>
+    <color name="ungu_gelap_background">#0F1923</color>
+    <color name="ungu_muda_vanila">#67678A</color>
+    <color name="ungu_agent_card">#3A3A63</color>
 </resources>
